@@ -24,7 +24,7 @@
   <a href="https://www.instagram.com/luuisz_felipe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luisfti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  <a style="color: #fff" href="https://luistriker.github.io/Myprofile/" target="_blank">My Personal Portifolio</a>
+  <a style="text-color: #fff" href="https://luistriker.github.io/Myprofile/" target="_blank">My Personal Portifolio</a>
  
   ![Snake animation](https://github.com/Luistriker/Luistriker/blob/output/github-contribution-grid-snake.svg)
  
