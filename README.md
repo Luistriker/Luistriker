@@ -4,7 +4,7 @@
 
 <br>
 
-<img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzU2aDBzanc1NXJrMmhlNHdkZnFyOGJzcTM1d3ZxZHA5MWRnNDRsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzU2aDBzanc1NXJrMmhlNHdkZnFyOGJzcTM1d3ZxZHA5MWRnNDRsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luistriker&label=Profile%20views&color=0e75b6&style=flat" alt="luistriker" /> </p>
 
